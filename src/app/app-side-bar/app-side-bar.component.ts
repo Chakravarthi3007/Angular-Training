@@ -1,0 +1,14 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-side-bar',
+  templateUrl: './app-side-bar.component.html',
+  styleUrls: ['./app-side-bar.component.css'],
+})
+export class AppSideBarComponent implements OnInit {
+  cssTypes = ['Inline', 'Internal', 'External'];
+
+  constructor() {}
+
+  ngOnInit(): void {}
+}

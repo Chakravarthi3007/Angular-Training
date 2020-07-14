@@ -1,0 +1,32 @@
+.design {
+  color: white;
+  text-align: center;
+}
+.header {
+  background-color: red;
+  font-style: italic;
+}
+.sideBar {
+  background-color: blue;
+  height: 90vh;
+  margin-right: 1em;
+}
+.Sub-Heading {
+  background: yellow;
+  color: blueviolet;
+  /* margin-left: 1em; */
+  height: 50vh;
+}
+.rowHeight {
+  /* height: 15em; */
+  margin: 1em 1em 0em 1em;
+}
+.Sub-Heading2 {
+  background: green;
+  margin-top: 1em;
+  height: 38vh;
+  /* margin-left: 1em; */
+}
+.Sub-Heading21 {
+  margin-right: 1em;
+}
